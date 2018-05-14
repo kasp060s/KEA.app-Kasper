@@ -1,0 +1,23 @@
+html {
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: 'Noticia Text', serif;
+
+
+}
+
+body{
+
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    list-style: none;
+    padding-left: 0;
+        font-family: 'Noticia Text', serif;
+
+
+}
